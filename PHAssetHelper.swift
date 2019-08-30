@@ -5,8 +5,8 @@
 //  Created by Daljeet Singh on 30/08/19.
 //
 
-import Foundation
-
+import UIKit
+import Photos
 
 extension PHAsset {
     
